@@ -4,7 +4,9 @@ import java.util.*;
 
 public class number_game {
     public static void main(String[] args) {
-        System.out.println("you have 5 chances");
+        System.out.print("\n\t\t\t\t\t\t    Number Game");
+        System.out.println("\n\t\t\t**************Guess the number and win the points**************");
+        System.out.println("YOU HAVE 5 CHANCES");
         Scanner sc = new Scanner(System.in);
         int win=0;
         int lose=5;
