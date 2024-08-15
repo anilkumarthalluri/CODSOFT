@@ -37,7 +37,7 @@ public class student_grade_calculator {
             else{
                 grade='F';
             }
-            System.out.println("\t\t\t-----------Your Result-----------");
+            System.out.println("\t\t\t----------Your Result----------");
             System.out.println("Total Marks : "+total);
             System.out.println("Percentage : "+avg);
             System.out.println("Grade : "+grade);
