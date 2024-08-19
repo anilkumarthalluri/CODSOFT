@@ -1,5 +1,3 @@
-package CODSOFT;
-
 import java.util.*;
 
 public class student_grade_calculator {
